@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/realmadrid/static/css/main.6afbd0d0.css",
+    "main.js": "/realmadrid/static/js/main.bc54172e.js",
+    "static/js/787.2847cf19.chunk.js": "/realmadrid/static/js/787.2847cf19.chunk.js",
+    "index.html": "/realmadrid/index.html",
+    "main.6afbd0d0.css.map": "/realmadrid/static/css/main.6afbd0d0.css.map",
+    "main.bc54172e.js.map": "/realmadrid/static/js/main.bc54172e.js.map",
+    "787.2847cf19.chunk.js.map": "/realmadrid/static/js/787.2847cf19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6afbd0d0.css",
+    "static/js/main.bc54172e.js"
+  ]
+}
